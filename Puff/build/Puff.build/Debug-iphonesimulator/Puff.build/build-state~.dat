@@ -1,0 +1,258 @@
+TPuff
+v7
+r0
+t335662425.254979
+cCheck dependencies
+cProcessInfoPlistFile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist Puff-Info.plist
+cCompileXIB /Users/dl106/Puff-1/Puff/MainWindow.xib
+cCompileXIB /Users/dl106/Puff-1/Puff/PuffViewController.xib
+cProcessPCH /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch Puff_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o /Users/dl106/Puff-1/Puff/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o /Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o /Users/dl106/Puff-1/Puff/Classes/PuffViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff normal i386
+cGenerateDSYMFile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+cTouch /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.h
+c000000004E5195CE00000000000001CE
+t1313969614
+s462
+i<UIKit/UIKit.h>
+
+N/Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m
+c000000004E5195CE00000000000007FD
+t1313969614
+s2045
+i"PuffAppDelegate.h"
+i"PuffViewController.h"
+
+N/Users/dl106/Puff-1/Puff/Classes/PuffViewController.h
+c000000004E5195CE00000000000000E6
+t1313969614
+s230
+i<UIKit/UIKit.h>
+
+N/Users/dl106/Puff-1/Puff/Classes/PuffViewController.m
+c000000004E5195CE000000000000054D
+t1313969614
+s1357
+i"PuffViewController.h"
+
+N/Users/dl106/Puff-1/Puff/MainWindow.xib
+c000000004E5195CE0000000000004CEB
+t1313969614
+s19691
+
+N/Users/dl106/Puff-1/Puff/PuffViewController.xib
+c000000004E5195CE0000000000003ED5
+t1313969614
+s16085
+
+N/Users/dl106/Puff-1/Puff/Puff_Prefix.pch
+c000000004E5195CE00000000000000B1
+t1313969614
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app
+t1313969625
+s238
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM
+t1313969625
+s102
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist
+t1313969621
+s786
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/MainWindow.nib
+t1313969623
+s1676
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PkgInfo
+t1313969621
+s8
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+t1313969625
+s16688
+
+N/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PuffViewController.nib
+t1313969623
+s1232
+
+N/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/Puff.LinkFileList
+c000000004E5195D5000000000000014B
+t1313969621
+s331
+
+N/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o
+t1313969624
+s50332
+
+N/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o
+t1313969624
+s38380
+
+N/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o
+t1313969624
+s6284
+
+N/Users/dl106/Puff-1/Puff/main.m
+c000000004E5195CE0000000000000167
+t1313969614
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch
+t1313969624
+s10626972
+
+NPuff-Info.plist
+c000000004E5195CE00000000000004D6
+t1313969614
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies335662421#335662421#0(0"0(0#1#0"4261848#0"0#
+
+CCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o /Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335662424.498500
+e335662424.610783
+r1
+xCompileC
+xbuild/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o
+x/Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m335662424#335662424#0(0"0(0#0#50"/Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m2464039568#1736"    cd /Users/dl106/Puff-1/Puff    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-generated-files.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-own-target-headers.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-all-target-headers.hmap -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-project-headers.hmap -F/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -I/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/include -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources/i386 -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources -include /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch -c /Users/dl106/Puff-1/Puff/Classes/PuffAppDelegate.m -o /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o0#
+
+CCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o /Users/dl106/Puff-1/Puff/Classes/PuffViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335662424.610937
+e335662424.703091
+r1
+xCompileC
+xbuild/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o
+x/Users/dl106/Puff-1/Puff/Classes/PuffViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/dl106/Puff-1/Puff/Classes/PuffViewController.m335662424#335662424#0(0"0(0#0#53"/Users/dl106/Puff-1/Puff/Classes/PuffViewController.m2464039568#1742"    cd /Users/dl106/Puff-1/Puff    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-generated-files.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-own-target-headers.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-all-target-headers.hmap -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-project-headers.hmap -F/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -I/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/include -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources/i386 -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources -include /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch -c /Users/dl106/Puff-1/Puff/Classes/PuffViewController.m -o /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o0#
+
+CCompileC build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o /Users/dl106/Puff-1/Puff/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s335662424.374905
+e335662424.498355
+r1
+xCompileC
+xbuild/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o
+x/Users/dl106/Puff-1/Puff/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Compile /Users/dl106/Puff-1/Puff/main.m335662424#335662424#0(0"0(0#0#31"/Users/dl106/Puff-1/Puff/main.m4261848#1706"    cd /Users/dl106/Puff-1/Puff    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-generated-files.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-own-target-headers.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-all-target-headers.hmap -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-project-headers.hmap -F/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -I/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/include -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources/i386 -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources -include /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch -c /Users/dl106/Puff-1/Puff/main.m -o /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/dl106/Puff-1/Puff/MainWindow.xib
+s335662421.252902
+e335662423.166583
+r1
+xCompileXIB
+x/Users/dl106/Puff-1/Puff/MainWindow.xib
+o2011-08-22 11:33:43.042 Interface Builder Cocoa Touch Tool[8745:1803] CFPreferences: user home directory at file://localhost/Users/dl106/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@25"CompileXIB MainWindow.xib335662421#335662423#0(239"2011-08-22 11:33:43.042 Interface Builder Cocoa Touch Tool[8745:1803] CFPreferences: user home directory at file://localhost/Users/dl106/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#39"/Users/dl106/Puff-1/Puff/MainWindow.xib4261848#525"    cd /Users/dl106/Puff-1/Puff    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/MainWindow.nib /Users/dl106/Puff-1/Puff/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/dl106/Puff-1/Puff/PuffViewController.xib
+s335662421.254528
+e335662423.143201
+r1
+xCompileXIB
+x/Users/dl106/Puff-1/Puff/PuffViewController.xib
+o2011-08-22 11:33:43.041 Interface Builder Cocoa Touch Tool[8744:1803] CFPreferences: user home directory at file://localhost/Users/dl106/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@33"CompileXIB PuffViewController.xib335662421#335662423#0(239"2011-08-22 11:33:43.041 Interface Builder Cocoa Touch Tool[8744:1803] CFPreferences: user home directory at file://localhost/Users/dl106/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#47"/Users/dl106/Puff-1/Puff/PuffViewController.xib2464039568#541"    cd /Users/dl106/Puff-1/Puff    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PuffViewController.nib /Users/dl106/Puff-1/Puff/PuffViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+s335662425.055290
+e335662425.207696
+r1
+xGenerateDSYMFile
+x/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM
+x/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Puff.app.dSYM build/Debug-iphonesimulator/Puff.app/Puff335662425#335662425#0(0"0(0#0#66"/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff2464039568#332"    cd /Users/dl106/Puff-1/Puff    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff -o /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM0#
+
+CLd /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff normal i386
+s335662424.703291
+e335662425.055145
+r1
+xLd
+x/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+xnormal
+xi386
+lSLF07#2@71"Link /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff335662424#335662425#0(0"0(0#0#0"2464039568#815"    cd /Users/dl106/Puff-1/Puff    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -F/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -filelist /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/Puff.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff0#
+
+CProcessInfoPlistFile /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist Puff-Info.plist
+s335662421.201119
+e335662421.252729
+r1
+xProcessInfoPlistFile
+x/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist
+xPuff-Info.plist
+lSLF07#2@23"Process Puff-Info.plist335662421#335662421#0(0"0(0#0#40"/Users/dl106/Puff-1/Puff/Puff-Info.plist4261848#428"    cd /Users/dl106/Puff-1/Puff    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Puff-Info.plist -genpkginfo /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist0#
+
+CProcessPCH /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch Puff_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s335662423.166819
+e335662424.374755
+r1
+xProcessPCH
+x/var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch
+xPuff_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Puff_Prefix.pch335662423#335662424#0(0"0(0#0#40"/Users/dl106/Puff-1/Puff/Puff_Prefix.pch4261848#1615"    cd /Users/dl106/Puff-1/Puff    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-generated-files.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-own-target-headers.hmap -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-all-target-headers.hmap -iquote /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Puff-project-headers.hmap -F/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator -I/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/include -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources/i386 -I/Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/DerivedSources -c /Users/dl106/Puff-1/Puff/Puff_Prefix.pch -o /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch0#
+
+CTouch /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app
+s335662425.207830
+e335662425.254903
+r1
+xTouch
+x/Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app
+lSLF07#2@67"Touch /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app335662425#335662425#0(0"0(0#0#0"2464039568#247"    cd /Users/dl106/Puff-1/Puff    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app0#
+

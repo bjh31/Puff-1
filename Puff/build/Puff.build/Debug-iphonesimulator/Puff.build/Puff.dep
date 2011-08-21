@@ -1,0 +1,11 @@
+00000000000000000000000000000000 183d72f4f5149ffea69337770e2f277d ffffffffffffffffffffffffffffffff 102 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app.dSYM
+35870721532492861634e7cc869ecaba 832a2699c5406bd2d738cd23529ee05c ffffffffffffffffffffffffffffffff 238 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app
+000000004e5195ce0000000000003ed5 5fc92ee4372fa763124705d7dc03c8fb ffffffffffffffffffffffffffffffff 1232 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PuffViewController.nib
+000000004e5195ce0000000000004ceb 0100db79e752d5fe4db057d94683efb5 ffffffffffffffffffffffffffffffff 1676 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/MainWindow.nib
+00000000000000000000000000000000 12f58d383e5ecaf072432837251bb1de ffffffffffffffffffffffffffffffff 8 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/PkgInfo
+00000000000000000000000000000000 12f58d383e5ecaf072432837251bb1de ffffffffffffffffffffffffffffffff 786 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Info.plist
+fd52676e0ceb259d7d5d2b0ff15946a3 961c95d28fb2c586349e9ecded47d969 ffffffffffffffffffffffffffffffff 16688 /Users/dl106/Puff-1/Puff/build/Debug-iphonesimulator/Puff.app/Puff
+8d678d0ab2ec9688086e8ec4e2fb2665 4bf7f093b1ff7e16f6734b78333bc030 ffffffffffffffffffffffffffffffff 38380 /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffViewController.o
+8d678d0ab1eb16f2086e8ec4e2fb2fba 0d53e95203e1fc8e64e6915103bdcca7 ffffffffffffffffffffffffffffffff 50332 /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/PuffAppDelegate.o
+8d678d0afcbd0346086e8ec4e2fb22a9 3691f3a54145a96be7a67fe223524be2 ffffffffffffffffffffffffffffffff 6284 /Users/dl106/Puff-1/Puff/build/Puff.build/Debug-iphonesimulator/Puff.build/Objects-normal/i386/main.o
+000000004e534fc20000000000001e76 8d678d0ab1e9ccfe086e8ec4e2fb3719 ffffffffffffffffffffffffffffffff 10626972 /var/folders/2X/2XWXbhY0HayA4NdwuGNXi-6scts/-Caches-/com.apple.Xcode.305701790/SharedPrecompiledHeaders/Puff_Prefix-fmjfixqlifnalaflrzmjpucchlmc/Puff_Prefix.pch.gch
